@@ -39,7 +39,7 @@ The Boston Housing dataset contains 506 observations and features such as:
 - **LSTAT** — Percentage of lower‑status population  
 - **MEDV** — Median value of owner‑occupied homes (target variable)
 
-The dataset also includes the variable **B**, which encodes the proportion of Black residents using a problematic formula. This has led to the dataset being deprecated in scikit‑learn and used today primarily for fairness and bias analysis.
+Some versions of the dataset also includes the variable **B**, which encodes the proportion of Black residents using a problematic formula. This has led to the dataset being deprecated in scikit‑learn and used today primarily for fairness and bias analysis.
 
 ---
 
